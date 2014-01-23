@@ -1,0 +1,11 @@
+# Compiled classes
+*.class
+
+# Assests
+assets/TODO_IMPROVEMENTS
+*.odt
+*.docx
+
+# IntelliJ Idea project settings
+.idea/
+*.iml
